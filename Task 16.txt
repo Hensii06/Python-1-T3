@@ -1,0 +1,4 @@
+welcome to python 1.
+python is easy language.
+I like python.
+learning python is fun.
